@@ -1,0 +1,11 @@
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\obj\Debug\net48\CampusEventManagement.csproj.AssemblyReference.cache
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\obj\Debug\net48\CampusEventManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\obj\Debug\net48\CampusEventManagement.AssemblyInfoInputs.cache
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\obj\Debug\net48\CampusEventManagement.AssemblyInfo.cs
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\obj\Debug\net48\CampusEventManagement.csproj.CoreCompileInputs.cache
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\bin\Debug\net48\Database.sql
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\bin\Debug\net48\CampusEventManagement.exe.config
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\bin\Debug\net48\CampusEventManagement.exe
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\bin\Debug\net48\CampusEventManagement.pdb
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\obj\Debug\net48\CampusEventManagement.exe
+D:\download1\CampusEventManagement_OOP_Complete\CampusEventManagement\obj\Debug\net48\CampusEventManagement.pdb
